@@ -23,5 +23,6 @@ public class Main {
         }
         System.out.printf("Your number is %d %n", numberMiddle);
         System.out.printf("Your number is %d %n", numberMiddle);
+        System.out.printf("Your number is %d %n", numberMiddle);
     }
 }
