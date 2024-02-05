@@ -22,7 +22,6 @@ public class Main {
             numberMiddle = (numberFirst + numberLast) / 2;
         }
         System.out.printf("Your number is %d %n", numberMiddle);
-        System.out.printf("Your number is %d %n", numberMiddle);
-        System.out.printf("Your number is %d %n", numberMiddle);
+
     }
 }
